@@ -13,6 +13,7 @@
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+  <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
@@ -31,6 +32,24 @@
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" width="120" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" width="150" height="150"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/freepik/freepik-ar21.svg" width="150" height="120"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="150" height="120"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="150" height="150"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/npr/npr-ar21.svg" width="150" height="130"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+  
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="150" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+
+
+
 
 
 

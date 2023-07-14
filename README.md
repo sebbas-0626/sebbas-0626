@@ -30,6 +30,7 @@
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 
 
 

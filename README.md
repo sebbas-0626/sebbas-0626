@@ -16,7 +16,6 @@
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
-<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>

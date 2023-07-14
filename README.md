@@ -8,7 +8,6 @@
 
 
   <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="150" height="120"  align="center" alt="sebbasdev"  /></a>
-  <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>

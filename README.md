@@ -42,8 +42,10 @@
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
-<a href="" target="blank"><img align="center" src="" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
-  
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/xbox/xbox-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
+
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="150" height="80"  align="center" alt="sebbasdev"  /></a>
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg" width="80" height="80"  align="center" alt="sebbasdev"  /></a>

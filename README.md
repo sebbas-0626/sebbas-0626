@@ -1,5 +1,10 @@
 <h1 align="center">HOLA MI NOMBRE ES SEBASTIÁN TOVAR CHÁVEZ</h1>
-<h3 align="center">Soy un apasionado programador frontend con una insaciable sed de conocimiento y un deseo ardiente de formar parte de un equipo de trabajo excepcional para llevar a cabo proyectos innovadores. A mis 21 años y oriundo de Neiva, Huila, dedicó mi tiempo y energía al desarrollo web con un enfoque en la experiencia del usuario y la creación de interfaces atractivas. Mi entusiasmo por aprender y mejorar continuamente me ha llevado a mantenerme actualizado en las últimas tendencias y tecnologías del desarrollo frontend. Me siento cómodo trabajando con HTML, CSS y JavaScript, pero también estoy dispuesto a aventurarme en nuevos marcos y herramientas para enriquecer mi conjunto de habilidades. Mi objetivo principal es ofrecer soluciones creativas y efectivas que cumplan con los requisitos y superen las expectativas de los usuarios. Soy un colaborador entusiasta y eficiente, capaz de adaptarme rápidamente a los cambios y trabajar de manera efectiva en equipo. Creo firmemente en la importancia de una comunicación clara y una colaboración estrecha para lograr resultados sobresalientes.</h3>
+<h3 align="center">Soy una persona organizaday apasionado por aprender cada dia mas desarrollador web con experiencia
+en la creación de soluciones digitales innovadoras. Mi enfoque se centra en el desarrollo de sitos web que
+no solo cumplen con los requisitos técnicos, sino que también brindan experiencias excepcionales a los
+usuarios. Con un historial probado en el desarrollo front-end he trabajado en proyectos diversos que van
+desde sitios web interactivos.
+.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas- 0626"  width="420" height="200" /></p> 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&show_icons=true&locale=en" alt ="sebbas-0626"  /></p>

@@ -1,5 +1,5 @@
 <!-- Título principal -->
- <h1 align="center">Hey Soy SEBASTIÁN TOVAR CHÁVEZ😃</h1>
+ <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Soy SEBASTIÁN TOVAR CHÁVEZ😃</h1>
 <h3 align="center"> Desarrollador Web :woman_technologist: con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
 .</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=sebbas-0626&label=Profile%20views&color=0e75b6&style=flat" alt="sebbas-0626" /> </p >
@@ -7,18 +7,32 @@
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![Git](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=Astro)
+
+
+
+
+
+
+
+
+
+
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)

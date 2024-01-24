@@ -3,7 +3,7 @@
 <h2 align="center">Desarrolador web :woman_technologist:</h2>
 <h3 align="center"> Desarrollador Web con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
 .</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas- 0626"  width="420" height="200" /></p> 
+<p> <img src="https://komarev.com/ghpvc/?username=sebbas-0626&label=Profile%20views&color=0e75b6&style=flat" alt="sebbas-0626" /> </p >
 
 ## 🚀💻 Technologies & Tools
 
@@ -30,8 +30,11 @@
 
 ## ⚡ GitHub Stats
 
-<p> <img  src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&show_icons=true&locale=en" alt ="sebbas-0626"  /></p>
-<p> <img src="https://komarev.com/ghpvc/?username=sebbas-0626&label=Profile%20views&color=0e75b6&style=flat" alt="sebbas-0626" /> </p >
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&show_icons=true&locale=en" alt="sebbas-0626" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas-0626" />
+</p>
+
 
 
 <!--  <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="150" height="120"  align="center" alt="sebbasdev"  /></a>

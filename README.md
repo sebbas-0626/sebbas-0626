@@ -1,10 +1,6 @@
 <h1 align="center">Hey Soy SEBASTIÁN TOVAR CHÁVEZ😃</h1>
 <h2 align="center">Desarrolador web ✔</h2>
-<h3 align="center"> soy estudiante de ingeniería en sistemas apasionado por la programación, desde los 19 años cuando comencé mis estudios universitarios empece el el mundo de la programación gracias a mi formación técnico en sistemas durante la etapa de colegio.
-
-Me caracterizo por estar en constante aprendizaje y mantener el hábito de ser autodidacta. Algunos de mis éxitos incluyen colaborar en el desarrollo de la página web de COOTRANSHUILA LTDA y participación en el backend como desarrollador web. Esta experiencia fue un gran avance me enseño sobre trabajo en equipo y progresodel dia a dia en el ámbito del desarrollo web.
-
-Mi objetivo es seguir aprendiendo, enfrentar nuevos desafíos y nunca rendirme, incluso ante los obstáculos más difíciles.Estoy comprometido con mi crecimiento profesional y emocionado por las oportunidades que el mundo del desarrollo tiene para ofrecer.
+<h3 align="center"> Desarrollador Web con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
 .</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas- 0626"  width="420" height="200" /></p> 
 

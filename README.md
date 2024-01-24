@@ -1,5 +1,5 @@
 <h1 align="center">Hey Soy SEBASTIÁN TOVAR CHÁVEZ😃</h1>
-<h2 align="center">Desarrolador web ✔</h2>
+<h2 align="center">Desarrolador web :woman_technologist:</h2>
 <h3 align="center"> Desarrollador Web con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
 .</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas- 0626"  width="420" height="200" /></p> 

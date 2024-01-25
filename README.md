@@ -1,7 +1,7 @@
 <!-- Título principal -->
  <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Soy SEBASTIÁN TOVAR CHÁVEZ😃</h1>
 <h3 align="center"> Desarrollador Web :woman_technologist: con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
-.</h3>
+</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=sebbas-0626&label=Profile%20views&color=0e75b6&style=flat" alt="sebbas-0626" /> </p >
 
 

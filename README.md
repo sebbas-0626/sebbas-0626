@@ -1,4 +1,4 @@
- # 💻 Hola, mi  Sebastian Tovar chavez
+ # 💻 Hola, mi es Sebastian Tovar chavez
  
 [![banner-sebastian-DEV.jpg](https://i.postimg.cc/dtYSPQzP/banner-sebastian-DEV.jpg)](https://postimg.cc/ThtcnxdC)
 <!-- Título principal -->

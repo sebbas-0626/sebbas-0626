@@ -1,6 +1,7 @@
  # 💻 Hola, mi es Sebastian Tovar chavez
  
 [![banner-sebastian-DEV.jpg](https://i.postimg.cc/dtYSPQzP/banner-sebastian-DEV.jpg)](https://postimg.cc/ThtcnxdC)
+<!-- ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)-->
 <!-- Título principal -->
   Desarrollador Web 🚀 con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
 
@@ -31,6 +32,12 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+<!-- ## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&show_icons=true&locale=en" alt="sebbas-0626" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas-0626" />
+</p> -->
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
@@ -55,3 +62,9 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<!--<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>  -->
+    
+

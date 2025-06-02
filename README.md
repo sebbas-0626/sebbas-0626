@@ -1,108 +1,111 @@
- # 💻 Hola, mi es Sebastian Tovar chavez
+<h1 align="center">¡Hola! 👋 Soy <strong>Desarrollador Web Full Stack</strong></h1>
  
 [![banner-sebastian-DEV.jpg](https://i.postimg.cc/dtYSPQzP/banner-sebastian-DEV.jpg)](https://postimg.cc/ThtcnxdC)
 <!-- ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)-->
-<!-- Título principal -->
-  Desarrollador Web 🚀 con experiencia en proyectos colaborativos. De Rivera, colombia . Aunque mi trayectoria no incluye experiencia formal en empresas, he contribuido significativamente como desarrollador Web en diversos proyectos , tanto en el frontend como en el backend. Puedes explorar mis contribuciones en los repositorios de GitHub, donde plasmo mi dedicación y habilidades técnicas.
+
+---
+
+## 👨‍🎓 Sobre mí
+
+🎓 Soy estudiante de **Ingeniería en Sistemas**, originario de **Neiva, Huila – Colombia** 🇨🇴  
+🚀 Me encanta aprender explorar nuevas herramientas y lenguajes de programación.  
+💼 He trabajado como desarrollador **Full Stack** en **Cootranshuila**. <br/>
+🤝 También he colaborado en proyectos con otras empresas y he creado iniciativas personales que puedes encontrar aquí en mi GitHub.    
+
+---
+
+## 💡 Intereses actuales
+
+- 📌 Aprendiendo **tecnologías modernas** de backend y frontend
+- 🧠 Explorando temas como **Deep Learning** y **automatización**
+- 🌍 Participando en proyectos **Open Source**
+- 💬 Siempre dispuesto a compartir y aprender en equipo
+
+---
+## 📫 ¿Dónde encontrarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebbasdev/)  
+- 💻 [Portafolio Web](https://sebbasdev0626.netlify.app/)  
+- 📬 Escríbeme en GitHub o vía correo *(puedes dejar tu email si deseas)*  
+
+---
 
 <p> <img src="https://komarev.com/ghpvc/?username=sebbas-0626&label=Profile%20views&color=0e75b6&style=flat" alt="sebbas-0626" /> </p >
 
-## 💻 SKILLS
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-      
-## 🚀 Technologies & Tools
-
-![TypeScript](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
-![Git](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+<!-- Backend -->
+<h4>- Backend</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,sequelize" />
   </a>
 </p>
 
-- Frontend
+<!-- Frontend -->
+<h4>- Frontend</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,tailwind,materialui" />
   </a>
 </p>
 
-- Database
+<!-- Database -->
+<h4>- Database</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+<!-- Cloud Servers 
+<h4>- Cloud Servers</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
-</p>
+</p>-->
 
-- Tools
+<!-- Tools -->
+<h4>- Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman," />
   </a>
 </p>
 
-
-## 😀 Learning
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![React](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=Astro)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-<!-- ## ⚡ GitHub Stats
+<!-- Learning -->
+<h4>- Learning new technologies</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,react,nextjs,redux,java,py,spring,flask,fastapi,nestjs,angular,astro" />
+  </a>
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&show_icons=true&locale=en" alt="sebbas-0626" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebbas-0626&show_icons=true&locale=en&layout=compact" alt="sebbas-0626" />
-</p> -->
-
+  <em>“La mejor forma de predecir el futuro es programarlo.”</em> — Alan Kay
+</p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
-
-<p align="left">
+<p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&theme=dark&show_icons=true&count_private=true" />
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sebbas-0626&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebbas-0626&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
-
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebbas-0626&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebbas-0626&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-<!--<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>  -->
+
     
 

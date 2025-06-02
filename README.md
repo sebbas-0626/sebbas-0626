@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy <strong>Desarrollador Web Full Stack</strong></h1>
  
-[![banner-sebastian-DEV.jpg](https://i.postimg.cc/dtYSPQzP/banner-sebastian-DEV.jpg)](https://postimg.cc/ThtcnxdC)
+[![banner-sebastian_DEV.png](https://i.postimg.cc/7hkC74kc/banner-sebastian-DEV.png)](https://postimg.cc/ThtcnxdC)
 <!-- ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)-->
 
 ---

@@ -78,7 +78,8 @@
 <h4>- Learning new technologies</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,react,nextjs,redux,java,py,spring,flask,fastapi,nestjs,angular,astro" />
+    <img src="https://skillicons.dev/icons?i=nestjs,angular," />
+   <!--linux,react,nextjs,redux,java,py,spring,flask,fastapi,astro -->
   </a>
 </p>
 <p align="center">

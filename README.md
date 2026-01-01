@@ -2,7 +2,6 @@
  
 [![banner-sebastian-DEV626](https://i.postimg.cc/XvKXbhFk/banner-sebastian-DEV.gif)](https://postimg.cc/ThtcnxdC)
 <!-- ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)-->
-
 ---
 
 ## 👨‍🎓 Sobre mí
